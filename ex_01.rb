@@ -1,1 +1,1 @@
-puts 'Coucou'
+puts "Bonjour, monde !"
